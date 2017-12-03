@@ -1,0 +1,105 @@
+\documentclass[12pt]{report}
+
+% This first part of the file is called the PREAMBLE. It includes
+% customizations and command definitions. The preamble is everything
+% between \documentclass and \begin{document}.
+
+\usepackage[margin=1in]{geometry}  % set the margins to 1in on all sides
+\usepackage{graphicx}              % to include figures
+\usepackage{amsmath}               % great math stuff
+\usepackage{amsfonts}              % for blackboard bold, etc
+\usepackage{amsthm}                % better theorem environments
+\usepackage{url}
+\usepackage{natbib}
+
+\usepackage[T1]{fontenc}
+\usepackage{tgpagella}
+\usepackage{booktabs}
+
+% various theorems, numbered by section
+
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{conj}[thm]{Conjecture}
+
+\DeclareMathOperator{\id}{id}
+
+\newcommand{\bd}[1]{\mathbf{#1}}  % for bolding symbols
+\newcommand{\RR}{\mathbb{R}}      % for Real numbers
+\newcommand{\ZZ}{\mathbb{Z}}      % for Integers
+\newcommand{\col}[1]{\left[\begin{matrix} #1 \end{matrix} \right]}
+\newcommand{\comb}[2]{\binom{#1^2 + #2^2}{#1+#2}}
+
+\renewcommand{\figurename}{Gambar}
+\renewcommand{\tablename}{Tabel}
+\renewcommand{\chaptername}{Bab}
+\renewcommand{\contentsname}{Daftar Isi}
+
+\begin{document}
+
+
+\nocite{*}
+
+\title{Proposal Penelitian \\
+Kecerdasan Buatan \\~\\
+\textsc{<Judul Penelitian>}}
+
+\author{\textbf{<Nama>} \\
+\textbf{<NIM>} \\
+Program Studi Teknik Informatika \\
+Fakultas Sains dan Teknologi \\
+Universitas Al Azhar Indonesia}
+
+\date{\the\year}
+
+\maketitle
+
+\chapter{Pendahuluan}
+
+\section{Latar Belakang} % (fold)
+\label{sec:latar_belakang}
+
+\emph{Berikan deskripsi jelas penelitian yang akan Anda kerjakan di sini. Buatlah sepadat mungkin. Panjangnya seharusnya tidak lebih dari 3-4 paragraf. Ceritakan jika ada alasan khusus Anda memilih penelitian ini dan apa yang menjadi elemen yang ingin Anda tonjolkan. Beberapa elemen yang penting untuk diceritakan antara lain:}
+\begin{enumerate}
+    \item Masalah apa yang akan Anda bahas?
+    \item Mengapa masalah ini menjadi menarik untuk dibahas?
+    \item Apa saja solusi yang sudah ada saat ini untuk masalah tersebut?
+    \item Metode yang Anda usulkan untuk menyelesaikan masalah tersebut
+    \item Apakah ada elemen kebaruan dari penelitian yang Anda kerjakan?
+\end{enumerate}
+
+% section latar_belakang (end)
+
+\section{Rumusan Masalah} % (fold)
+\label{sec:rumusan_masalah}
+
+\emph{Dari latar belakang yang telah diberikan, rumuskan satu hingga tiga pertanyaan penting yang akan Anda jawab dalam makalah Anda melalui penelitian yang dilakukan.}
+
+% section rumusan_masalah (end)
+
+\section{Batasan Masalah} % (fold)
+\label{sec:batasan_masalah}
+
+\emph{Cantumkan asumsi yang Anda gunakan dalam penelitian yang Anda akan lakukan. Data seperti apa yang akan Anda gunakan? Apa hasil dari penelitian ini? Model? Aplikasi?}
+
+% section batasan_masalah (end)
+
+\chapter{Landasan Teori}
+
+\emph{Pada bagian ini, cantumkan:}
+\begin{enumerate}
+    \item Definisi dalam literatur tentang masalah yang Anda bahas
+    \item Solusi dari penelitian-penelitian terkait tentang masalah yang Anda bahas
+    \item Kritikan Anda tentang solusi-solusi tersebut
+    \item Teori mengenai solusi yang Anda ajukan
+\end{enumerate}
+\emph{Pastikan Anda mencantumkan referensi Anda dengan benar. Minimal, Anda memuat lima referensi dalam bagian ini. Referensi tersebut harus berupa makalah pada prosiding, artikel jurnal, atau buku. Hindari penggunaan tugas akhir atau skripsi sebagai referensi. Anda sebaiknya membuat file proposal.bib untuk menyimpan daftar pustaka Anda.}
+
+\bibliographystyle{abbrvnat}
+
+\bibliography{proposal}
+
+
+\end{document}
