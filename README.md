@@ -1,4 +1,4 @@
-# Artificial Intelligence
+# Artificial Intelligence Semester Ganjil 2018/2019
 
 ## Daftar Topik
 
