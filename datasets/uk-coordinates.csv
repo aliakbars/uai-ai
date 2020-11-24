@@ -1,0 +1,16 @@
+city,latitude,longitude,city_name
+"London, London, United Kingdom",51.500152587890625,-0.12623600661754608,London
+"Reading, Reading, United Kingdom",51.455039978027344,-0.9690880179405212,Reading
+"Bristol, Bristol, United Kingdom",51.45531463623047,-2.591902017593384,Bristol
+"Birmingham, West Midlands, United Kingdom",52.4828987121582,-1.8934619426727295,Birmingham
+"Oxford, Oxfordshire, United Kingdom",51.75374221801758,-1.2634600400924683,Oxford
+"Cambridge, Cambridgeshire, United Kingdom",52.202545166015625,0.1312370002269745,Cambridge
+"Leicester, Leicester City, United Kingdom",52.63486099243164,-1.1290600299835205,Leicester
+"Sheffield, South Yorkshire, United Kingdom",53.383056640625,-1.4647949934005737,Sheffield
+"Manchester, Greater Manchester, United Kingdom",53.480712890625,-2.2343759536743164,Manchester
+"Liverpool, Merseyside, United Kingdom",53.4107780456543,-2.9778380393981934,Liverpool
+"Leeds, West Yorkshire, United Kingdom",53.79969024658203,-1.549103021621704,Leeds
+"Newcastle upon Tyne, Tyne & Wear, United Kingdom",54.977840423583984,-1.6129159927368164,Newcastle upon Tyne
+"Carlisle, Cumbria, United Kingdom",54.89506149291992,-2.9335529804229736,Carlisle
+"Glasgow, Glasgow City, United Kingdom",55.865684509277344,-4.257137775421143,Glasgow
+"Edinburgh, Edinburgh City, United Kingdom",55.950191497802734,-3.1875529289245605,Edinburgh
