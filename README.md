@@ -19,9 +19,9 @@
 
 === UTS ===
 
-15. [Uninformed Search & Dynamic Programming](08-search.pdf)
-16. [Informed Search](09-search-2.pdf)
-17. [Genetic Algorithm](10-ga.pdf)
+15. [Search: Uninformed Search & Dynamic Programming](08-search.pdf)
+16. [Search: Informed Search](09-search-2.pdf)
+17. [Search: Genetic Algorithm](10-ga.pdf)
 18. [Markov Decision Processes^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=mdp1.js)
 19. [Reinforcement Learning^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=mdp2.js)
 20. [Minimax, Expectimax, Evaluation Functions, Alpha-Beta Pruning^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=games1.js)
