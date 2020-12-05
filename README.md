@@ -20,16 +20,17 @@
 === UTS ===
 
 15. [Search: Uninformed Search & Dynamic Programming](08-search.pdf)
-16. [Search: Informed Search](09-search-2.pdf)
-17. [Search: Genetic Algorithm](10-ga.pdf)
+16. [Search: Informed Search](08-search-2.pdf)
+17. [Search: Genetic Algorithm](09-ga.pdf)
 18. [Markov Decision Processes^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=mdp1.js)
-19. [Reinforcement Learning^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=mdp2.js)
-20. [Minimax, Expectimax, Evaluation Functions, Alpha-Beta Pruning^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=games1.js)
-21. [TD Learning, Game Theory^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=games2.js)
-22. [Bayesian Networks^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=bayes1.js)
-23. [Learning Bayesian Networks^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=bayes3.js)
-24. [Logic I^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=logic1.js)
-25. [Logic II^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=logic2.js)
+19. [MDP: Value Iteration^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=mdp1.js)
+20. [Reinforcement Learning^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=mdp2.js)
+21. [Minimax, Expectimax, Evaluation Functions, Alpha-Beta Pruning^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=games1.js)
+22. [TD Learning, Game Theory^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=games2.js)
+23. [Bayesian Networks^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=bayes1.js)
+24. [Learning Bayesian Networks^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=bayes3.js)
+25. [Logic^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=logic1.js)
+<!-- 25. [Logic II^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=logic2.js) -->
 26. NLP
 27. Computer Vision
 28. Ethical AI
