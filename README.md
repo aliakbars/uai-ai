@@ -30,7 +30,7 @@
 23. [Bayes: Bayesian Networks^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=bayes1.js)
 24. [Bayes: Hidden Markov Models^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=bayes2.js)
 25. [Bayes: Learning Bayesian Networks^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=bayes3.js)
-26. NLP
+26. [Natural Language Processing](nlp.pdf)
 27. Computer Vision
 28. Kuliah Tamu: Ethical AI
 
