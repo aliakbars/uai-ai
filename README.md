@@ -31,7 +31,7 @@
 24. [Bayes: Hidden Markov Models^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=bayes2.js)
 25. [Bayes: Learning Bayesian Networks^](https://stanford-cs221.github.io/autumn2019/lectures/index.html#include=bayes3.js)
 26. [Natural Language Processing](nlp.pdf)
-27. Computer Vision
+27. [Computer Vision](cv.pdf)
 28. Kuliah Tamu: Ethical AI
 
 === UAS ===
